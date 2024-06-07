@@ -6,7 +6,7 @@
 }
 
 body {
-    background: url("/images/WjoFwi.jpg");
+    background: url("../images/WjoFwi.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
