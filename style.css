@@ -6,15 +6,15 @@
 }
 
 body {
-    background: url("../images/WjoFwi.jpg");
+    background: url("/images/WjoFwi.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.card {
+.card { 
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #8141bd , #b29696);
+    background: linear-gradient(135deg, #32b2e9 , #b29696);
     color: #fff;
     margin: 100px auto;
     border-radius: 20px;
